@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Amor por Sofía</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #001f3f; /* Azul marino */
+            color: #ffffff; /* Blanco para el texto */
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #005f99; /* Azul más claro */
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+            font-size: 3rem;
+        }
+        main {
+            padding: 40px 20px;
+        }
+        p {
+            font-size: 1.5rem;
+            line-height: 1.6;
+        }
+        img {
+            width: 17%; /* Tamaño de la imagen ajustado al 20% de su tamaño original */
+            height: auto; /* Mantiene la proporción */
+            margin: 20px 0;
+            border: 5px solid #005f99; /* Marco azul que se distingue del fondo */
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); /* Sombra para destacar la imagen */
+        }
+        footer {
+            background-color: #002f6d; /* Azul oscuro */
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        footer p {
+            margin: 0;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mi Amor por Sofía</h1>
+    </header>
+    <main>
+        <p>Sofía, cada día me doy cuenta de lo especial que eres para mí. Tu sonrisa ilumina mi vida y tu amor me hace sentir más completo. Eres la persona que me inspira, que me llena de alegría y que me da fuerzas para enfrentar cualquier desafío.</p>
+        <img src="https://pics.filmaffinity.com/El_show_de_Snoopy_Serie_de_TV-615475063-large.jpg" alt="Imagen de Snoopy">
+        <p>Gracias por ser tú, por estar a mi lado y por hacerme el ser más feliz del mundo. Te amo más de lo que las palabras pueden expresar.</p>
+    </main>
+    <footer>
+        <p>Hecho con amor.</p>
+    </footer>
+</body>
+</html>
+
